@@ -13,8 +13,8 @@ public class Product {
          * 새로운 인스턴스를 생성을 못한다. 가져오기만 한다.
          * 객체 생성을 통제할 수 있다
          */
-        Settings settings1 = Settings.newInstance();
-        Settings settings2 = Settings.newInstance();
+        Settings settings1 = Settings.getInstance();
+        Settings settings2 = Settings.getInstance();
 
         System.out.println(settings1);
         System.out.println(settings2);
