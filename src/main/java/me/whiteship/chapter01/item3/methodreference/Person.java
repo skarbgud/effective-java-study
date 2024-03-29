@@ -1,12 +1,8 @@
-package me.whiteship.chapter01.methodreference;
-
-import autovalue.shaded.com.google$.common.base.$Function;
+package me.whiteship.chapter01.item3.methodreference;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Person {
