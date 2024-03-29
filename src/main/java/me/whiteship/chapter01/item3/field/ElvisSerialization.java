@@ -1,4 +1,4 @@
-package me.whiteship.chapter01.item3;
+package me.whiteship.chapter01.item3.field;
 
 import java.io.*;
 

@@ -1,5 +1,6 @@
 package me.whiteship.chapter01.item3;
 
+import me.whiteship.chapter01.item3.field.Concert;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

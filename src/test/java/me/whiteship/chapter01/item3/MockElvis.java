@@ -1,5 +1,7 @@
 package me.whiteship.chapter01.item3;
 
+import me.whiteship.chapter01.item3.field.IElvis;
+
 public class MockElvis implements IElvis {
 
     @Override
